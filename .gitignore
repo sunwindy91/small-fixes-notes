@@ -1,0 +1,23 @@
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# logs / temp
+*.log
+*.tmp
+*.bak
+*~
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editor
+.vscode/
+.idea/
+
+# local caches produced by the scripts in this repo
+/out/
